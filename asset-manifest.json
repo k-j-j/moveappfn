@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moveappfn/static/css/main.32e61399.css",
+    "main.js": "/moveappfn/static/js/main.38a8cce5.js",
+    "index.html": "/moveappfn/index.html",
+    "main.32e61399.css.map": "/moveappfn/static/css/main.32e61399.css.map",
+    "main.38a8cce5.js.map": "/moveappfn/static/js/main.38a8cce5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32e61399.css",
+    "static/js/main.38a8cce5.js"
+  ]
+}
